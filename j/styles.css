@@ -1,0 +1,26 @@
+.splash {
+    background: url("pics/dand.jpg") no-repeat center center fixed;
+    height: 700px;
+    width: 100%;
+}
+
+.about {
+    margin-top: 
+}
+
+.action {
+    margin-left: 30%;
+    margin-right: auto;
+    margin-top: 400px;
+    display: inline-block;
+    color: white;
+    border: 1px solid white;
+}
+
+.action p {
+    margin-left:15%;
+}
+
+.about {
+    margin-top: 100px;
+}
